@@ -41,7 +41,7 @@ const Homepage = () => {
       <a href={booksPython} id='book__python' title='Upgrade your python knowledge '>Python Books</a>
       <a href={pitch} id='pitch' title='Survey outstanding programmers using our tools'>Background Check for Coders</a>
       <a href={zuriDesign} id='book__design' title='Get free design books offered by Zuri'>Design Books</a>
-      <Link to="/contact">Contact</Link>
+      <Link to="/contact" id='contact'>Contact</Link>
 
     </div>
 
